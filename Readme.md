@@ -5,9 +5,10 @@
 An intelligent Android application for monitoring battery health, charging sessions, and real-time battery statistics. Sattery combines advanced battery analytics with a l Nothing-inspired UI to .
 
 <p align="center">
-  <img src="assets/home.png" width="30%">
-  <img src="assets/statistics.png" width="30%">
-  <img src="assets/history.png" width="30%">
+  <img src="assets/dark1.png" width="30%">
+  <img src="assets/dark2.png" width="30%">
+  <img src="assets/light1.png" width="30%">
+  <img src="assets/ligh2.png" width="30%">
 </p>
 
 ---
