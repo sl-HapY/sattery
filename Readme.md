@@ -8,7 +8,7 @@ An intelligent Android application for monitoring battery health, charging sessi
   <img src="assets/dark1.png" width="25%">
   <img src="assets/dark2.png" width="25%">
   <img src="assets/light1.png" width="25%">
-  <img src="assets/ligh2.png" width="25%">
+  <img src="assets/light2.png" width="25%">
 </p>
 
 ---
